@@ -1,1 +1,1 @@
-me esta gustando este sistema para progrmar el arduino
+me esta gustando este sistema para programar el arduino
